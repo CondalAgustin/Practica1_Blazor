@@ -30,3 +30,35 @@ C:\Users\Asus\Documents\Programacion - Nick\Prueba1_Blazor_git\Practica1_Blazor\
 C:\Users\Asus\Documents\Programacion - Nick\Prueba1_Blazor_git\Practica1_Blazor\CrudBlazor\obj\Debug\net7.0\CrudBlazor.pdb
 C:\Users\Asus\Documents\Programacion - Nick\Prueba1_Blazor_git\Practica1_Blazor\CrudBlazor\obj\Debug\net7.0\CrudBlazor.genruntimeconfig.cache
 C:\Users\Asus\Documents\Programacion - Nick\Prueba1_Blazor_git\Practica1_Blazor\CrudBlazor\obj\Debug\net7.0\ref\CrudBlazor.dll
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\bin\Debug\net7.0\appsettings.Development.json
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\bin\Debug\net7.0\appsettings.json
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\bin\Debug\net7.0\CrudBlazor.staticwebassets.runtime.json
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\bin\Debug\net7.0\CrudBlazor.exe
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\bin\Debug\net7.0\CrudBlazor.deps.json
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\bin\Debug\net7.0\CrudBlazor.runtimeconfig.json
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\bin\Debug\net7.0\CrudBlazor.dll
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\bin\Debug\net7.0\CrudBlazor.pdb
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\CrudBlazor.csproj.AssemblyReference.cache
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\CrudBlazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\CrudBlazor.AssemblyInfoInputs.cache
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\CrudBlazor.AssemblyInfo.cs
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\CrudBlazor.csproj.CoreCompileInputs.cache
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\CrudBlazor.MvcApplicationPartsAssemblyInfo.cache
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\CrudBlazor.RazorAssemblyInfo.cache
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\CrudBlazor.RazorAssemblyInfo.cs
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\staticwebassets\msbuild.CrudBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\staticwebassets\msbuild.build.CrudBlazor.props
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CrudBlazor.props
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CrudBlazor.props
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\staticwebassets.build.json
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\staticwebassets.development.json
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\scopedcss\bundle\CrudBlazor.styles.css
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\scopedcss\projectbundle\CrudBlazor.bundle.scp.css
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\CrudBlazor.dll
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\refint\CrudBlazor.dll
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\CrudBlazor.pdb
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\CrudBlazor.genruntimeconfig.cache
+D:\Programacion\Practica1_Blazor\CrudBlazor\CrudBlazor\obj\Debug\net7.0\ref\CrudBlazor.dll
