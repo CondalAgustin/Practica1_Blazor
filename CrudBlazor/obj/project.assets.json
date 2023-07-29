@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\conda\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Documents\\Programacion - Nick\\Prueba1_Blazor_git\\Practica1_Blazor\\CrudBlazor\\CrudBlazor.csproj",
+      "projectUniqueName": "D:\\Programacion\\Practica1_Blazor\\CrudBlazor\\CrudBlazor\\CrudBlazor.csproj",
       "projectName": "CrudBlazor",
-      "projectPath": "C:\\Users\\Asus\\Documents\\Programacion - Nick\\Prueba1_Blazor_git\\Practica1_Blazor\\CrudBlazor\\CrudBlazor.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Documents\\Programacion - Nick\\Prueba1_Blazor_git\\Practica1_Blazor\\CrudBlazor\\obj\\",
+      "projectPath": "D:\\Programacion\\Practica1_Blazor\\CrudBlazor\\CrudBlazor\\CrudBlazor.csproj",
+      "packagesPath": "C:\\Users\\conda\\.nuget\\packages\\",
+      "outputPath": "D:\\Programacion\\Practica1_Blazor\\CrudBlazor\\CrudBlazor\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\conda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
